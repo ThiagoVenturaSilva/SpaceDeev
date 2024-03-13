@@ -1,0 +1,40 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: url(/images/ai-art-illustration-Mars-planet-orange-2223168-wallhere.com.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    color: rgb(0, 0, 0);
+}
+
+.container1 {
+    background-color: rgb(250, 52, 21);
+    width: 450px;
+    height: auto;
+    border-radius: 20px;
+}
+
+.topLogo {
+    width: 185px;
+ 
+}
+
+.paragraph {
+    margin: 8px 0px;
+}
+
+.btnCen {
+    color: $button-color;
+    border: 1px solid $button-color;
+}
+
+.footer {
+    margin-top: 30px;
+    margin-bottom: -30px;
+    color: white;
+    padding-top: 10px;
+}
